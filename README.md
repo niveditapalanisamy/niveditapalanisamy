@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @niveditapalanisamy
 - 👀 I’m interested in Machine Learning and Data science
 - 🌱 I’m currently learning Cloud computing
-- 💞️ I’m looking to collaborate on Clous services
+- 💞️ I’m looking to collaborate on Cloud services
 - 📫 How to reach me by linkedin - https://www.linkedin.com/in/nivedita-palanisamy-4255631b4/
 
 <!---
